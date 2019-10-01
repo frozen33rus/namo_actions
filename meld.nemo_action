@@ -1,0 +1,9 @@
+[Nemo Action]
+Active=true
+Name=Compare with Meld
+Comment=Compare with Meld
+Exec=<scripts/meld.sh '%F'>
+Icon-Name=meld
+Selection=any
+Extensions=any;
+Dependencies=meld;

@@ -1,0 +1,9 @@
+[Nemo Action]
+Active=true
+Name=Open with VSCode
+Comment=Open with VSCode
+Exec=code '%F'
+Icon-Name=visual-studio-code
+Selection=any
+Extensions=any;
+Dependencies=code;

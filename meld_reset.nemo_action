@@ -1,0 +1,9 @@
+[Nemo Action]
+Active=true
+Name=Reset first file for Meld
+Comment=Reset first file for Meld
+Exec=echo '%F' > /tmp/meldFirstPath
+Icon-Name=meld
+Selection=any
+Extensions=any;
+Dependencies=meld;
